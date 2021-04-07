@@ -1,0 +1,2 @@
+numpy
+tensorboard==2.4.1
