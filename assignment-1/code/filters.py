@@ -1,4 +1,4 @@
-"""Process images using commmon Filters.
+"""Process images using common filters.
 
 Author: Lucas David -- <lucas.david@ic.unicamp.br>
 
